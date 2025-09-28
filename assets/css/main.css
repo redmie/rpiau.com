@@ -1,0 +1,44 @@
+.btn-primary, .btn-primary:hover {
+    background: #324c98;
+}
+
+#logoENS {
+    width: 2%;
+    background: #324c98;
+}
+
+.license {
+    padding: 1em;
+    background: #f5f5f5;
+}
+
+.ens_logo {
+    background: #324c98;
+}
+
+.logo {
+    border-radius: 4px;
+    height: 5em;
+    margin: 2pt;
+    padding: 5pt;
+}
+
+.content {
+    padding: 2em;
+}
+
+
+/*
+.column_left {
+  float: left;
+  width: 50%;
+}
+.column_right {
+  float: left;
+  width: 50%;
+}
+
+.no_float {
+  float: none;
+}
+*/
